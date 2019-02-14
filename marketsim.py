@@ -20,9 +20,9 @@ GT honor code violation.
   		   	  			    		  		  		    	 		 		   		 		  
 -----do not edit anything above this line---  		   	  			    		  		  		    	 		 		   		 		  
   		   	  			    		  		  		    	 		 		   		 		  
-Student Name: Patrick Baginski (replace with your name)
-GT User ID: pbaginski3		   	  			    		  		  		    	 		 		   		 		  
-GT ID: 903383289 (replace with your GT ID)  		   	  			    		  		  		    	 		 		   		 		  
+Student Name:  (replace with your name)
+GT User ID: 		   	  			    		  		  		    	 		 		   		 		  
+GT ID:  (replace with your GT ID)  		   	  			    		  		  		    	 		 		   		 		  
 """
 
 import pandas as pd
@@ -33,7 +33,7 @@ from util import get_data, plot_data
 
 
 def author():
-    return 'pbaginski3'
+    return ''
 
 
 def compute_portvals(orders_file, start_val=1000000, commission=9.95, impact=0.005):
